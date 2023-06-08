@@ -1,0 +1,6 @@
+Dear $towho
+
+This is a test to see if an email can be sent using Python.
+
+Regards,
+Yuma Takahashi

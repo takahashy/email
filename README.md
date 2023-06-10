@@ -3,4 +3,5 @@ This allows to send emails to different people with similar but slightly differe
 
 # How to Run
 The two files should be in the same directory and run the program by typing the following:
+
     python3 send_email.py
